@@ -23,9 +23,41 @@ As a senior technology leader with 25+ years of experience, my portfolio showcas
 ## What This Portfolio Demonstrates
 
 - Proven ability to deliver strategic technical outcomes aligned with business goals  
-- Deep expertise in AI/ML, Cloud, Agile at Scale, Risk & Compliance**  
+- Deep expertise in AI/ML, Cloud, Agile at Scale, Risk & Compliance  
 - Cross-functional leadership and executive collaboration  
 - Technical fluency in modern development stacks, DevOps, and secure architecture
+
+---
+
+## Case studies (in this repo)
+
+| Initiative | Summary |
+|------------|---------|
+| [AI-Driven HR Knowledge Base (RAG)](ai-hr-chatbot/) | Enterprise RAG chatbot with OpenAI, LangChain, Azure Cognitive Search — 60% HR workload reduction. |
+| [Enterprise Agile Transformation at Scale](Enterprise%20Agile%20Transformation%20at%20Scale/) | SAFe, capacity planning, and delivery governance at Capital One Card Tech. |
+| [ISO 27001 Certification Initiative](ISO%2027001%20Certification%20Initiative/) | Full audit-readiness program, Risk Control Board, ISMS alignment — certification in under 9 months. |
+
+---
+
+## Writing & articles
+
+| Article | Description |
+|--------|--------------|
+| [From PoC to Real-World AI: Secure and Governable AI at Scale](WritingArticlesPlatform/Articles/article-poc-to-prod-secure-governed-ai.html) | Building secure, compliant, and governed AI at scale—from experimentation to enterprise. |
+
+---
+
+## GitHub repos & latest work
+
+| Repo | Description | Live / link |
+|------|-------------|-------------|
+| [executive-tech-portfolio](https://github.com/CSkarki/executive-tech-portfolio) | This portfolio: case studies, articles, and technical leadership work. | — |
+| [invite-app](https://github.com/CSkarki/invite-app) | Evite-style invite/RSVP app — Next.js, Supabase, host view and download. | [invite-app (Vercel)](https://invite-app-pi.vercel.app) |
+| [PartyShaarty](https://github.com/CSkarki/PartyShaarty) | Party/invite app. | [PartyShaarty (Vercel)](https://party-shaarty.vercel.app) |
+| [sql-practice-platform](https://github.com/CSkarki/sql-practice-platform) | SQL practice platform. | [SQL Practice (Vercel)](https://sql-practice-platform.vercel.app) |
+| [ssbs-website](https://github.com/CSkarki/ssbs-website) | SSBS website. | [SSBS (Vercel)](https://ssbs-website.vercel.app) |
+| [studentcompanion](https://github.com/CSkarki/studentcompanion) | Student companion app. | [Student Companion (Vercel)](https://studentcompanion.vercel.app) |
+| [turnify-ai-b2b-portal-Mockup](https://github.com/CSkarki/turnify-ai-b2b-portal-Mockup) | Turnify AI B2B portal — mockup/demo. | [Turnify (Vercel)](https://turnify-ai-b2b-portal.vercel.app) |
 
 ---
 
@@ -57,7 +89,7 @@ graph TD
     AG --> O2 --> C2
     ISO --> O3 --> C3
 
-    C1 --> CTO[ Executive Technical Leadership]
+    C1 --> CTO[Executive Technical Leadership]
     C2 --> CTO
     C3 --> CTO
 
