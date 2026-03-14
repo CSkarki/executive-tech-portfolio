@@ -19,7 +19,7 @@ As a senior technology leader with 25+ years of experience, my portfolio showcas
   ✅ Established repeatable compliance governance models.
 
 - **Hands-on Apps & Full-Stack Delivery**  
-  Build and ship production apps: **SQL Practice Platform** (AI-generated questions, Prisma, Supabase), **Utsav-Events.com** (invite/RSVP, Next.js, Supabase), **Student Companion** (Firebase, study tools, compliance), **Turnify B2B Portal**, **SSBS Website**.  
+  Build and ship production apps: **SQL Practice Platform** (AI-generated questions, Prisma, Supabase), **Utsav-Events.com** (end-to-end experience & memories platform—emotion, not just a service; Next.js, Supabase), **Student Companion** (Firebase, study tools, compliance), **Turnify B2B Portal**, **SSBS Website**.  
   ✅ Live deployments on Vercel; end-to-end ownership from design to release.
 
 ---
@@ -45,7 +45,7 @@ As a senior technology leader with 25+ years of experience, my portfolio showcas
 | [Student Companion](Student%20Companion/) | Academic workflow platform: documents, study assistant, notes, email, OFAC compliance, voice assistant. |
 | [Turnify AI B2B Portal](Turnify%20AI%20B2B%20Portal/) | B2B returns and order portal mockup: return requests, order tracking, analytics, RBAC, real-time updates. |
 | [SSBS Website](SSBS%20Website/) | Professional site for SSB Solutions LLC: AI, Data, and Agile consulting; React, Framer Motion, mobile-first. |
-| [Utsav-Events.com](Utsav-Events.com/) | Invite & RSVP app for events: shareable link, host view, Excel/JSON download, Supabase or local storage. |
+| [Utsav-Events.com](Utsav-Events.com/) | End-to-end experience & memories platform for life moments—emotion, not just a service; invites, RSVP, host view, memories. |
 
 ---
 
@@ -62,7 +62,7 @@ As a senior technology leader with 25+ years of experience, my portfolio showcas
 | Repo | Description | Live / link |
 |------|-------------|-------------|
 | [executive-tech-portfolio](https://github.com/CSkarki/executive-tech-portfolio) | This portfolio: case studies, articles, and technical leadership work. | — |
-| [Utsav-Events.com](https://github.com/CSkarki/PartyShaarty) | Invite & RSVP app for events (Utsav-Events.com). | [Utsav-Events.com (Vercel)](https://party-shaarty.vercel.app) |
+| [Utsav-Events.com](https://github.com/CSkarki/PartyShaarty) | End-to-end experience & memories platform—emotion, not just a service. | [Utsav-Events.com (Vercel)](https://party-shaarty.vercel.app) |
 | [sql-practice-platform](https://github.com/CSkarki/sql-practice-platform) | SQL practice platform. | [SQL Practice (Vercel)](https://sql-practice-platform.vercel.app) |
 | [ssbs-website](https://github.com/CSkarki/ssbs-website) | SSBS website. | [SSBS (Vercel)](https://ssbs-website.vercel.app) |
 | [studentcompanion](https://github.com/CSkarki/studentcompanion) | Student companion app. | [Student Companion (Vercel)](https://studentcompanion.vercel.app) |
