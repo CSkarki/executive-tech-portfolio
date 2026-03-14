@@ -62,11 +62,11 @@ As a senior technology leader with 25+ years of experience, my portfolio showcas
 | Repo | Description | Live / link |
 |------|-------------|-------------|
 | [executive-tech-portfolio](https://github.com/CSkarki/executive-tech-portfolio) | This portfolio: case studies, articles, and technical leadership work. | — |
-| [Utsav-Events.com](https://github.com/CSkarki/PartyShaarty) | End-to-end experience & memories platform—emotion, not just a service. | [Utsav-Events.com (Vercel)](https://party-shaarty.vercel.app) |
-| [sql-practice-platform](https://github.com/CSkarki/sql-practice-platform) | SQL practice platform. | [SQL Practice (Vercel)](https://sql-practice-platform.vercel.app) |
-| [ssbs-website](https://github.com/CSkarki/ssbs-website) | SSBS website. | [SSBS (Vercel)](https://ssbs-website.vercel.app) |
-| [studentcompanion](https://github.com/CSkarki/studentcompanion) | Student companion app. | [Student Companion (Vercel)](https://studentcompanion.vercel.app) |
-| [turnify-ai-b2b-portal-Mockup](https://github.com/CSkarki/turnify-ai-b2b-portal-Mockup) | Turnify AI B2B portal — mockup/demo. | [Turnify (Vercel)](https://turnify-ai-b2b-portal.vercel.app) |
+| [Utsav-Events.com](https://github.com/CSkarki/PartyShaarty) | Where celebrations become memories and invitations carry emotion.| [Utsav-Events.com ](https://party-shaarty.vercel.app) |
+| [sql-practice-platform](https://github.com/CSkarki/sql-practice-platform) | SQL practice platform. | [SQL Practice ](https://sql-practice-platform.vercel.app) |
+| [ssbs-website](https://github.com/CSkarki/ssbs-website) | SSBS website. | [SSBS ](https://ssbs-website.vercel.app) |
+| [studentcompanion](https://github.com/CSkarki/studentcompanion) | Student companion app. | [Student Companion ](https://studentcompanion.vercel.app) |
+| [turnify-ai-b2b-portal-Mockup](https://github.com/CSkarki/turnify-ai-b2b-portal-Mockup) | Turnify AI B2B portal. | [Turnify](https://turnify-ai-b2b-portal.vercel.app) |
 
 ---
 
