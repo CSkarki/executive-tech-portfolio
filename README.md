@@ -36,6 +36,11 @@ As a senior technology leader with 25+ years of experience, my portfolio showcas
 | [AI-Driven HR Knowledge Base (RAG)](ai-hr-chatbot/) | Enterprise RAG chatbot with OpenAI, LangChain, Azure Cognitive Search — 60% HR workload reduction. |
 | [Enterprise Agile Transformation at Scale](Enterprise%20Agile%20Transformation%20at%20Scale/) | SAFe, capacity planning, and delivery governance at Capital One Card Tech. |
 | [ISO 27001 Certification Initiative](ISO%2027001%20Certification%20Initiative/) | Full audit-readiness program, Risk Control Board, ISMS alignment — certification in under 9 months. |
+| [SQL Practice Platform](SQL%20Practice%20Platform/) | Full-stack SQL practice tests: AI-generated questions (OpenAI), schema-once UX, SQL Runner, auto-review. |
+| [Student Companion](Student%20Companion/) | Academic workflow platform: documents, study assistant, notes, email, OFAC compliance, voice assistant. |
+| [Turnify AI B2B Portal](Turnify%20AI%20B2B%20Portal/) | B2B returns and order portal mockup: return requests, order tracking, analytics, RBAC, real-time updates. |
+| [SSBS Website](SSBS%20Website/) | Professional site for SSB Solutions LLC: AI, Data, and Agile consulting; React, Framer Motion, mobile-first. |
+| [Utsav-Events.com](Utsav-Events.com/) | Invite & RSVP app for events: shareable link, host view, Excel/JSON download, Supabase or local storage. |
 
 ---
 
@@ -52,8 +57,7 @@ As a senior technology leader with 25+ years of experience, my portfolio showcas
 | Repo | Description | Live / link |
 |------|-------------|-------------|
 | [executive-tech-portfolio](https://github.com/CSkarki/executive-tech-portfolio) | This portfolio: case studies, articles, and technical leadership work. | — |
-| [invite-app](https://github.com/CSkarki/invite-app) | Evite-style invite/RSVP app — Next.js, Supabase, host view and download. | [invite-app (Vercel)](https://invite-app-pi.vercel.app) |
-| [PartyShaarty](https://github.com/CSkarki/PartyShaarty) | Party/invite app. | [PartyShaarty (Vercel)](https://party-shaarty.vercel.app) |
+| [Utsav-Events.com](https://github.com/CSkarki/PartyShaarty) | Invite & RSVP app for events (Utsav-Events.com). | [Utsav-Events.com (Vercel)](https://party-shaarty.vercel.app) |
 | [sql-practice-platform](https://github.com/CSkarki/sql-practice-platform) | SQL practice platform. | [SQL Practice (Vercel)](https://sql-practice-platform.vercel.app) |
 | [ssbs-website](https://github.com/CSkarki/ssbs-website) | SSBS website. | [SSBS (Vercel)](https://ssbs-website.vercel.app) |
 | [studentcompanion](https://github.com/CSkarki/studentcompanion) | Student companion app. | [Student Companion (Vercel)](https://studentcompanion.vercel.app) |
