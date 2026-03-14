@@ -1,27 +1,32 @@
 # Portfolio Summary
 
-As a senior technology leader with 25+ years of experience, my portfolio showcases enterprise-scale innovations across Agile transformation, AI architecture, and information security compliance—highlighting a trajectory toward the Technical Executive role. Each case study reflects my ability to blend strategic vision with hands-on technical execution.
+As a senior technology leader with 25+ years of experience, my portfolio showcases enterprise-scale innovations across Agile transformation, AI architecture, and information security compliance—and **hands-on delivery** of full-stack apps and platforms. I blend strategic vision with **hands-on technical execution**: I architect and also build, ship, and iterate (Next.js, React, SQL, RAG, cloud). This reflects a trajectory toward the Technical Executive role as both strategist and builder.
 
 ---
 
 ## Key Highlights
 
--  AI-Driven Innovation  
+- **AI-Driven Innovation**  
   Architected an enterprise-grade AI knowledge base using **Retrieval-Augmented Generation (RAG)** with OpenAI, LangChain, Flask, and Azure Cognitive Search.  
   ✅ Automated HR query handling, reducing operational workload by **over 60%**.
 
--  Enterprise Agile Transformation  
+- **Enterprise Agile Transformation**  
   Led multi-team Agile scaling initiatives at Capital One, embedding SAFe practices and engineering governance.  
   ✅ Improved delivery predictability and reduced cycle time across product teams.
 
--  ISO 27001 Certification Readiness  
+- **ISO 27001 Certification Readiness**  
   Directed a full ISO 27001 audit and certification program, aligning IT and business with enterprise risk frameworks.  
   ✅ Established repeatable compliance governance models.
+
+- **Hands-on Apps & Full-Stack Delivery**  
+  Build and ship production apps: **SQL Practice Platform** (AI-generated questions, Prisma, Supabase), **Utsav-Events.com** (invite/RSVP, Next.js, Supabase), **Student Companion** (Firebase, study tools, compliance), **Turnify B2B Portal**, **SSBS Website**.  
+  ✅ Live deployments on Vercel; end-to-end ownership from design to release.
 
 ---
 
 ## What This Portfolio Demonstrates
 
+- **Hands-on techie**: Ship full-stack apps (Next.js, React, TypeScript, Supabase, Firebase)—from SQL practice platforms and event RSVP apps to B2B portals and consulting sites.  
 - Proven ability to deliver strategic technical outcomes aligned with business goals  
 - Deep expertise in AI/ML, Cloud, Agile at Scale, Risk & Compliance  
 - Cross-functional leadership and executive collaboration  
@@ -75,31 +80,37 @@ graph TD
         AI[AI-Driven Knowledge Base<br><small>RAG, LangChain, GPT</small>]
         AG[Agile Transformation<br><small>SAFe, Governance</small>]
         ISO[ISO 27001 Readiness<br><small>Compliance & Audit</small>]
+        BUILD[Hands-on Apps & Platforms<br><small>Next.js, React, SQL, Events, B2B</small>]
     end
 
     subgraph Outcomes
         O1[📉 60% HR Workload Reduction]
         O2[⚡ Faster Delivery & Predictability]
         O3[✅ ISO Certification Achieved]
+        O4[🚀 Shipped full-stack apps]
     end
 
     subgraph Capabilities
         C1[🔧 Technical Execution]
         C2[📊 Strategic Delivery]
         C3[🔐 Risk & Compliance Management]
+        C4[👨‍💻 Hands-on full-stack / Builder]
     end
 
     AI --> O1 --> C1
     AG --> O2 --> C2
     ISO --> O3 --> C3
+    BUILD --> O4 --> C4
 
     C1 --> CTO[Executive Technical Leadership]
     C2 --> CTO
     C3 --> CTO
+    C4 --> CTO
 
     Start --> AI
     Start --> AG
     Start --> ISO
+    Start --> BUILD
 ```
 
 ---
